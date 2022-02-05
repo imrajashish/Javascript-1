@@ -1,5 +1,5 @@
 //Abstraction means hide file
-// new = newobj create
+// new = new obj create
 function Circle(radius){
     this.rad = radius;
     let.defaultLocation = {x:0,y:0}
