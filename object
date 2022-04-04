@@ -1,8 +1,0 @@
-const obj = {
-  firstName: "John",
-  walk: function(){
-      console.log(this)
-  }
-};
-console.log(obj)
-

@@ -1,6 +1,0 @@
-const Person = {
-    firstName:"Hello",
-    street:"Delhi",
-    age:21
-}
-const{firstName,street,age} = Person;
